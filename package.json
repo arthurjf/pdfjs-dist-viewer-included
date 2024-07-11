@@ -1,0 +1,27 @@
+{
+  "name": "pdfjs-dist-viewer-included",
+  "version": "4.4.168",
+  "description": "PDF.js with viewer included.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "pdfjs",
+    "pdfjs viewer",
+    "pdf viewer"
+  ],
+  "author": "Arthur José Fernandes",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "pdfjs-dist": "^4.4.168"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arthurjf/pdfjs-dist-viewer-included"
+  },
+  "bugs": {
+    "url": "https://github.com/arthurjf/pdfjs-dist-viewer-included/issues"
+  }
+}
