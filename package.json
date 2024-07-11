@@ -1,8 +1,7 @@
 {
-  "name": "pdfjs-dist-viewer-included",
+  "name": "pdfjs-dist-viewer-include",
   "version": "4.4.168",
   "description": "PDF.js with viewer included.",
-  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
@@ -16,7 +15,6 @@
   "dependencies": {
     "pdfjs-dist": "^4.4.168"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/arthurjf/pdfjs-dist-viewer-included"
