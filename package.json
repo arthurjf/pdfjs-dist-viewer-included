@@ -1,6 +1,6 @@
 {
   "name": "pdfjs-dist-viewer-include",
-  "version": "4.4.168-2",
+  "version": "1.0.0",
   "description": "PDF.js with viewer included.",
   "scripts": {
     "start": "node index.js"
